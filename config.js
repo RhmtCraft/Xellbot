@@ -15,7 +15,7 @@
 // • Xtreshe (Beban)
 // • Yanz_5008
 // • JayaBali
-// • Dll 
+// • Xell (Beban)
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -46,31 +46,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig1 = 'https://wa.me/6285752235008?text=_Assalamualaikum+🙏🏻_'
-global.sig = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sgc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.sdc = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
-global.snh = 'https://www.instagram.com/p/CLPWKRYgkEW/?igshid=YmMyMTA2M2Y='
+global.sig1 = 'https://wa.me/6283867149253?text=_Assalamualaikum+🙏🏻_'
+global.sig = 'https://www.instagram.com/reel/Cl_QQ_Gsa_n/?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://www.instagram.com/reel/Cl_QQ_Gsa_n/?igshid=YmMyMTA2M2Y='
+global.sgc = 'https://www.instagram.com/reel/Cl_QQ_Gsa_n/?igshid=YmMyMTA2M2Y='
+global.sdc = 'https://www.instagram.com/reel/Cl_QQ_Gsa_n/?igshid=YmMyMTA2M2Y='
+global.snh = 'https://www.instagram.com/reel/Cl_QQ_Gsa_n/?igshid=YmMyMTA2M2Y='
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285752235008' //Nomor dana atay gooay kalian
-global.povo = '6285752235008' 
-global.pgopay = '6285752235008'
-global.ppulsa = '6285752235008' // Indosat : kalau gada diganti tanda - aja
+global.pdana = '6283867149253' //Nomor dana atay gooay kalian
+global.povo = '6283867149253' 
+global.pgopay = '6283867149253'
+global.ppulsa = '6283867149253' // Axis : kalau gada diganti tanda - aja
 global.ppulsa2 = '-' // tri : kalau gada diganti tanda - aja
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895323263224'
-global.nomorown = '6285752235008' // nomor owner
-global.namebot = 'Lala BOT'
-global.nameown = '乙モれ. ㉺'
+global.nomorbot = '6287802572596'
+global.nomorown = '6283867149253' // nomor owner
+global.namebot = 'So Hard'
+global.nameown = 'Xell'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895323263224', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
+  ['6283867149253', 'Xell', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus', 'Zenz', true],//Ganti jd nomormu sama Namamu dan tanda ( ' ) jangan di hapus
   ['6285752235008', 'Developer Bot', true] //Jangan di Ganti🚫
   ]
 global.mods = [] // Want some help?
@@ -118,8 +118,8 @@ global.APIKeys = { // APIKey Here
 global.wm = '☪ Lala BotzMD'
 global.botdate = `\n© Lala BOT - ${week}, ${date}\n`//⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}, ${week}, ${date}
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `WhatsApp Bot | By 乙モれ. ㉺`
-global.author = '\n© Lala BotzMD'
+global.titlebot = `WhatsApp Bot | By Xell`
+global.author = '\n© So Hard Md'
 
 
 /*============== LOGO ==============*/
@@ -145,7 +145,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== TEXT ==============*/
-global.wait = 'ᴡᴀɪᴛ.. ᴛᴜɴɢɢᴜ sᴇᴊᴀᴍ'
+global.wait = 'sᴀʙᴀʀ ᴄᴜʏ....'
 global.eror = '```404 error```'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -169,7 +169,7 @@ global.dmenub2 = '│' //body for info cmd on Default menu
 global.dmenuf = '└──────⭓' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅═┅═❏ *LALA BOT* ❏═┅═┅'
+global.dashmenu = '┅═┅═❏ *SO HARD* ❏═┅═┅'
 global.cmenut = '┌⭓『' //top
 global.cmenuh = '』' //header
 global.cmenub = '│⭔' //body
@@ -185,8 +185,8 @@ global.htjava = '⭔' //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Lala Bot MD'
-global.stickauth = `By @Yanz_5008`
+global.stickpack = 'So Hard Md'
+global.stickauth = `owy`
 
 global.multiplier = 38 // The higher, The harder levelup
 
